@@ -1,12 +1,3 @@
-# hello-world
-GitHub Quick Start
+#    Learning to use GitHub
 
-#    Heading H1
-##   Heading H2
-###  Heading H3
-
-**This is bold text**
-*This is italicized text*
-
-`printf("Hello, World!\n);`
-  
+This is simple classic "Hello, World" program in C.  
